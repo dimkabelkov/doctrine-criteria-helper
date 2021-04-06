@@ -1,0 +1,21 @@
+{
+    "name": "dimkabelkov/doctrine-criteria-helper",
+    "license": "proprietary",
+    "description": "dimkabelkov/doctrine-criteria-helper",
+    "type": "package",
+    "require": {
+        "php": "^7.4",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dimkabelkov\\CriteriaHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Kiryukhin",
+            "email": "dimkabelkov@gmail.com"
+        }
+    ]
+}
